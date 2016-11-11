@@ -11,5 +11,11 @@ public class test {
     public void haha(){
         System.out.println("schmarn");
     }
+    
+    //alternative
+    public void achNochwas(){
+        System.out.println("World!");
+    }
+    
 
 }
