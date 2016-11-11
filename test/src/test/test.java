@@ -8,5 +8,8 @@ public class test {
         System.out.println("Hallo");
     }
     //nochwas
+    public void haha(){
+        System.out.println("schmarn");
+    }
 
 }
